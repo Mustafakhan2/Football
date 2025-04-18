@@ -26,7 +26,7 @@ struct ContentView: View {
                 Image(systemName: "figure.indoor.soccer")
                     .resizable()
                     .scaledToFit()
-                    .foregroundStyle(.purple)
+                    .foregroundStyle(.green)
 
             }
 
